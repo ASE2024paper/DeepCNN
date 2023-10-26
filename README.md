@@ -10,8 +10,8 @@
 * Contains the results of DeepCNN 
 #### [Example of CNN Model Repair](https://github.com/FSE2024paper/DeepCNN/tree/main/Model%20Repair):
 * One example of repairing a CNN model using RandomSearch, GridSearch, Bayesian Optimization, and the Hyperband Tuner.
-#### [Preprocessing Data]():
-* One example of repairing a CNN model using RandomSearch, GridSearch, Bayesian Optimization, and the Hyperband Tuner.
+#### [Preprocessing Data](https://github.com/FSE2024paper/DeepCNN/tree/main/Abstracted%20Code):
+* One example of abstracted model source code
 #### [Mutation Model]():
 * 
 
