@@ -6,8 +6,8 @@
 * Contains 20 Kaggle notebooks 
 #### [Transformer Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Transformer%20Model):
 * Source code of Transformer Model
-#### [DeepCNN Result]():
-* C
+#### [DeepCNN Result](https://github.com/FSE2024paper/DeepCNN/tree/main/EVALUATION):
+* Contains the results of DeepCNN 
 #### [Example of CNN Model Repair](https://github.com/FSE2024paper/DeepCNN/tree/main/Model%20Repair):
 * One example of repairing a CNN model using RandomSearch, GridSearch, Bayesian Optimization, and the Hyperband Tuner.
 
