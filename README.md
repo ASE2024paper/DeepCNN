@@ -4,8 +4,8 @@
 ## This repository contains the reproducibility package of DeepCNN
 #### [Kaggle Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Kaggel%20Model): 
 * Contains 20 Kaggle notebooks 
-#### [Transformer Model]():
-* B
+#### [Transformer Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Transformer%20Model):
+* Source code of Transformer Model
 #### [DeepCNN Result]():
 * C
 #### [Example of CNN Model Repair](https://github.com/FSE2024paper/DeepCNN/tree/main/Model%20Repair):
