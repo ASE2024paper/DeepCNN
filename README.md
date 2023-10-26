@@ -8,6 +8,8 @@
 * B
 #### [DeepCNN Result]():
 * C
+#### [Example of CNN Model Repair]():
+* C
 
 
 ## Prerequisites
