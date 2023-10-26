@@ -3,17 +3,17 @@
 
 ## This repository contains the reproducibility package of DeepCNN
 #### [Kaggle Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Kaggel%20Model): 
-* Contains 20 Kaggle notebooks 
+* Contains 20 Kaggle notebooks.
 #### [Transformer Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Transformer%20Model):
-* Source code of Transformer Model
+* Source code of Transformer Model.
 #### [DeepCNN Result](https://github.com/FSE2024paper/DeepCNN/tree/main/EVALUATION):
-* Contains the results of DeepCNN 
+* Contains the results of DeepCNN.
 #### [Example of CNN Model Repair](https://github.com/FSE2024paper/DeepCNN/tree/main/Model%20Repair):
 * One example of repairing a CNN model using RandomSearch, GridSearch, Bayesian Optimization, and the Hyperband Tuner.
 #### [Preprocessing Data](https://github.com/FSE2024paper/DeepCNN/tree/main/Abstracted%20Code):
-* One example of abstracted model source code
-#### [Mutation Model]():
-* 
+* One example of abstracted model source code.
+#### [Mutation Model](https://github.com/FSE2024paper/DeepCNN/tree/main/FR-mutated%20model):
+* Sample of mutated model for one type of bug.
 
 ## Prerequisites
 
