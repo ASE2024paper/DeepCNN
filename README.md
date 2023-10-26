@@ -1,7 +1,7 @@
 # DeepCNN: A Dual Approach to Fault Localization and Repair in Convolutional Neural Networks
 
 
-## This repository contains the reproducibility package of DeepDiagnosis
+## This repository contains the reproducibility package of DeepCNN
 #### [Dataset](): 
 * A
 #### [Transformer Model]():
