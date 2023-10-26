@@ -3,13 +3,13 @@
 
 ## This repository contains the reproducibility package of DeepCNN
 #### [Kaggle Model](https://github.com/FSE2024paper/DeepCNN/tree/main/Kaggel%20Model): 
-* Contains  20 Kaggle notebooks 
+* Contains 20 Kaggle notebooks 
 #### [Transformer Model]():
 * B
 #### [DeepCNN Result]():
 * C
-#### [Example of CNN Model Repair]():
-* C
+#### [Example of CNN Model Repair](https://github.com/FSE2024paper/DeepCNN/tree/main/Model%20Repair):
+* One example of repairing a CNN model using RandomSearch, GridSearch, Bayesian Optimization, and the Hyperband Tuner.
 
 
 ## Prerequisites
