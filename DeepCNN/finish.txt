@@ -1,0 +1,18 @@
+tuner = RandomSearch(
+    build_model,
+    objective='val_accuracy',
+    max_trials=1,  # how many model variations to test?
+    executions_per_trial=1,  # how many trials per variation? (same model could perform differently)
+    directory=LOG_DIR)
+
+
+tuner.search_space_summary()
+
+
+tuner.search(x=x_train,
+             y=y_train,
+             verbose=1, # just slapping this here bc jupyter notebook. The console out was getting messy.
+             epochs=1,
+             batch_size=64,
+             #callbacks=[tensorboard],  # if you have callbacks like tensorboard, they go here.
+             validation_data=(x_test, y_test))
