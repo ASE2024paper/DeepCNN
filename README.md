@@ -28,6 +28,16 @@ The version numbers below were confirmed to work with the current release:
     scipy 1.6.0
     tensorflow 2.0
 
+## BibTeX Reference
+If you find this [paper](https://ieeexplore.ieee.org/abstract/document/10491264) useful in your research, please consider citing:
+
+    @article{wardat2024deepcnn,
+      title={DeepCNN: A Dual Approach to Fault Localization and Repair in Convolutional Neural Networks},
+      author={Wardat, Mohammad and Al-Alaj, Abdullah},
+      journal={IEEE Access},
+      year={2024},
+      publisher={IEEE}
+    }
 
     
 
